@@ -74,4 +74,6 @@ model = sm.OLS(son_veri.iloc[:,-1:],X_l).fit()
 print(model.summary())
 
 # Modelimiz daha iyi hale geldi 
-
+# Modelimiz son halini aldı. Buraya Kadar Okuduğunuz İçin Teşekkürler.
+# Bu örneği BTK Akademi makine öğrenmei dersinin bir örneğidir.
+# İyi Çalışmalar.
